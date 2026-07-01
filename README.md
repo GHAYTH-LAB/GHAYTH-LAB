@@ -52,15 +52,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&count_private=true" alt="Ghayth's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME" alt="Ghayth's GitHub streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=GHAYTH-LAB&show_icons=true&theme=default&count_private=true" alt="Ghayth's GitHub stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GHAYTH-LAB" alt="Ghayth's GitHub streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GHAYTH-LAB&layout=compact" alt="Top Languages" />
 </p>
 
-> Replace `YOUR_GITHUB_USERNAME` above with your actual GitHub username to activate the stats.
+> Stats are pulled live from the `GHAYTH-LAB` GitHub account.
 
 ---
 
@@ -69,7 +69,7 @@
 <p align="center">
   <a href="mailto:YOUR_EMAIL@example.com"><img src="https://skillicons.dev/icons?i=gmail" alt="email" /></a>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://skillicons.dev/icons?i=github" alt="github" /></a>
+  <a href="https://github.com/GHAYTH-LAB"><img src="https://skillicons.dev/icons?i=github" alt="github" /></a>
 </p>
 
 ---
