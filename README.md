@@ -22,10 +22,10 @@
 **Languages**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,py" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=c,py,js" alt="Languages" />
 </p>
 
-- **C** & **Python** — the languages I master
+- **C**, **Python** & **JavaScript** — the languages I master
 
 **AI / Machine Learning & Data Science**
 
