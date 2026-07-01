@@ -67,8 +67,8 @@
 ### 🔗 Connect With Me
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://skillicons.dev/icons?i=gmail" alt="email" /></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>
+  <a href="mailto:ghaythff0@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="email" /></a>
+  <a href="https://www.linkedin.com/in/ghayth-abidli-a28970389/"><img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>
   <a href="https://github.com/GHAYTH-LAB"><img src="https://skillicons.dev/icons?i=github" alt="github" /></a>
 </p>
 
