@@ -2,49 +2,50 @@
 <h3 align="center">AI & Machine Learning Engineer | Problem Solver | Software Engineering Student @ INSAT</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Building+intelligent+systems+with+AI+%26+ML;TensorFlow+%7C+Keras+%7C+Scikit-learn;Turning+data+into+decisions;Solving+real-world+problems+with+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=650&lines=Turning+raw+data+into+real+insights;AI+%26+Machine+Learning+Engineer;TensorFlow+%7C+Scikit-learn+%7C+Python;Data+Science+%2B+Problem+Solving;Building+intelligent%2C+impactful+software" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🎓 Software Engineering student at **INSAT** (Institut National des Sciences Appliquées et de Technologie), Tunisia — MPI track, GL specialty
-- 🤖 Passionate about **Artificial Intelligence** and **Machine Learning**
+- 💻 Software Engineer with a strong focus on **Artificial Intelligence** and **Machine Learning**
+- 📊 Skilled in **Data Science** — exploring, cleaning, and extracting insights from data to drive decisions
 - 🧠 Problem solver at heart — I love breaking down complex challenges into clean, working solutions
 - 🛠️ Comfortable across the stack: from training models to building the interfaces that use them
 - 🌱 Currently deepening my skills in ML engineering and modern frontend development
-- 📌 Actively involved in the **IEEE INSAT SB** community
 
 ---
 
 ### 🧰 Tech Stack
 
-**AI / Machine Learning**
+**Languages**
 
 <p align="left">
-  <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="tensorflow" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/keras.png" alt="keras" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="40" height="40"/>
-  <img src="https://img.icons8.com/fluent/48/000000/numpy.png" alt="numpy" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="pandas" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=c,py" alt="Languages" />
 </p>
 
-- **TensorFlow** & **Keras** — building and training deep learning models
+- **C** & **Python** — the languages I master
+
+**AI / Machine Learning & Data Science**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,sklearn" alt="AI/ML stack" />
+</p>
+
+- **TensorFlow** — building and training deep learning models
 - **Scikit-learn** — classical ML pipelines, model evaluation, feature engineering
-- **Pandas / NumPy** — data analysis and preprocessing
+- **Data Science** — data analysis, preprocessing, and turning datasets into actionable insights
 
 **Frontend Development**
 
 <p align="left">
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html5" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript" width="40" height="40"/>
-  <img src="https://img.icons8.com/officel/48/000000/react.png" alt="react" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" alt="Frontend stack" />
 </p>
 
 - **HTML5 / CSS3 / JavaScript** — solid fundamentals
 - **React** — building interactive, component-based UIs
+- **Tailwind CSS** — fast, utility-first styling
 
 ---
 
@@ -66,9 +67,9 @@
 ### 🔗 Connect With Me
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="email" width="40" height="40"/></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin" width="40" height="40"/></a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.icons8.com/glyph-neue/48/000000/github.png" alt="github" width="40" height="40"/></a>
+  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://skillicons.dev/icons?i=gmail" alt="email" /></a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://skillicons.dev/icons?i=github" alt="github" /></a>
 </p>
 
 ---
