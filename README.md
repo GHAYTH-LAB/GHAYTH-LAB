@@ -52,15 +52,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GHAYTH-LAB&show_icons=true&theme=default&count_private=true" alt="Ghayth's GitHub stats" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=GHAYTH-LAB&show_icons=true&theme=default&count_private=true" alt="Ghayth's GitHub stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GHAYTH-LAB" alt="Ghayth's GitHub streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GHAYTH-LAB&layout=compact" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=GHAYTH-LAB&layout=compact" alt="Top Languages" />
 </p>
 
-> Stats are pulled live from the `GHAYTH-LAB` GitHub account.
+> Stats are pulled live from the `GHAYTH-LAB` GitHub account via [GitHub Stats Extended](https://github.com/stats-organization/github-stats-extended), the actively maintained successor to the original (now-deprecated) github-readme-stats service.
 
 ---
 
